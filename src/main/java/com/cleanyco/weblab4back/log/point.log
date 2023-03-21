@@ -1,0 +1,120 @@
+мар. 15, 2023 7:56:44 PM com.cleanyco.weblab4back.controller.UserController login
+INFO: Производится попытка входа в аккаунт...
+мар. 15, 2023 7:56:50 PM com.cleanyco.weblab4back.controller.UserController signup
+INFO: Пользователь регистрируется, уточняем, нет ли пользователя с таким именем...
+мар. 15, 2023 7:56:50 PM com.cleanyco.weblab4back.controller.UserController signup
+INFO: Регистрация пользователя прошла успешно. Имя: greg; пароль: 4680c0c5b13db8f0da7ea34cf746826b
+мар. 15, 2023 7:56:50 PM com.cleanyco.weblab4back.controller.UserController signup
+INFO: Пользователю greg соответствует сессия: B257AD6B85AB60FB6464C812BDB2B156
+мар. 15, 2023 7:57:00 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 0.4500000000000004; 0.6; 2.0
+мар. 15, 2023 7:57:00 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:00 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 0.4500000000000004; 0.6; 2.0
+мар. 15, 2023 7:57:00 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:04 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.4249999999999998; 0.6599998474121094; 2.0
+мар. 15, 2023 7:57:04 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:06 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.4249999999999998; 0.6599998474121094; 2.0
+мар. 15, 2023 7:57:06 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:07 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.5249999999999999; -0.6900001525878907; 2.0
+мар. 15, 2023 7:57:07 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:07 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.5249999999999999; -0.6900001525878907; 2.0
+мар. 15, 2023 7:57:07 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:08 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.2250000000000005; 0.4849998474121092; 2.0
+мар. 15, 2023 7:57:08 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:09 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.2250000000000005; 0.4849998474121092; 2.0
+мар. 15, 2023 7:57:09 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:11 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.675; 1.5349998474121096; 2.0
+мар. 15, 2023 7:57:11 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:11 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.675; 1.5349998474121096; 2.0
+мар. 15, 2023 7:57:11 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:12 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -1.125; -0.8900001525878909; 2.0
+мар. 15, 2023 7:57:12 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:13 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -1.125; -0.8900001525878909; 2.0
+мар. 15, 2023 7:57:13 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:15 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.30000000000000027; -1.6950000762939454; 2.0
+мар. 15, 2023 7:57:15 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:15 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: -0.30000000000000027; -1.6950000762939454; 2.0
+мар. 15, 2023 7:57:15 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:17 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 0.5249999999999999; 1.129999923706055; 2.0
+мар. 15, 2023 7:57:17 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:17 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 0.5249999999999999; 1.129999923706055; 2.0
+мар. 15, 2023 7:57:17 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 2.0
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 3.0
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 2.0
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 3.0
+мар. 15, 2023 7:57:27 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 2.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 3.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 2.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 3.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 3.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 1.0; 2.4; 2.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 2.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Была получена точка: 2.0; 2.4; 3.0
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
+мар. 15, 2023 7:57:33 PM com.cleanyco.weblab4back.controller.PointController addPoint
+INFO: Юзер не налл!
